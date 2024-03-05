@@ -1,0 +1,17 @@
+---
+title: "HelloWorld"
+author: "Leonard Tsai"
+date: "2024-03-05"
+output: pdf_document
+---
+
+# Hello, World!
+
+This is a simple R Markdown document.
+
+```{r}
+# Simple R code
+x <- 1:10
+mean_x <- mean(x)
+print(mean_x)
+```
